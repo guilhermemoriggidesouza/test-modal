@@ -1,0 +1,15 @@
+.modal-bg {
+    background-color: rgba(0, 0, 0, .3);
+    inset: 0;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    position: fixed;
+    inset: 40%;
+    padding: 10px;
+    background-color: #fff;
+}
